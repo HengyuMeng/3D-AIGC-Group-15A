@@ -16,6 +16,7 @@
 ### Assignment management
 
 * [3D AIGC - Group 15A | Trello](https://trello.com/b/wizu20qT/3d-aigc-group-15a)
+* [3D AIGC - User Journey Map | Miro](https://miro.com/welcomeonboard/ZFNCSFVhMVBRZlFDTFRzNEgvMzVOaGV3Vnk4VlNUTWdQN0NyTUM0aDhlUTMxRFhodXB4YzlVSmlLNTk4TUZZcFo4TUNjdFpyVVRCWmFvUVA2REtmWUE5Zmo0cGNEenFlanNQcmR4M0hmMnZvL091RUVRbC9KMVlZSTA3Y011MTNNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=192399432016)
 
 ### Datasets
 
@@ -25,3 +26,4 @@
 ### Research tools
 
 * [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
+
