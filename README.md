@@ -2,7 +2,7 @@
 
 
 
-![image-20250312134838534](C:\Users\Hyuno\AppData\Roaming\Typora\typora-user-images\image-20250312134838534.png)
+![image-20250312134838534](./images/teaser.png)
 
 ## Group Members
 
